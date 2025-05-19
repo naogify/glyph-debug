@@ -20,7 +20,7 @@ layout:
     - 0
     - 0.1
   text-font:
-    - Noto Sans Regular
+    - Noto Sans CJK JP Bold
   text-size:
     base: 1.2
     stops:

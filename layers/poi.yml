@@ -19,7 +19,7 @@ filter:
 layout:
   text-padding: 2
   text-font:
-    - Noto Sans Regular
+    - Noto Sans CJK JP Bold
   icon-image:
     - coalesce
     - - image

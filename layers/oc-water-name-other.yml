@@ -12,7 +12,7 @@ filter:
     - name
 layout:
   text-font:
-    - Noto Sans Regular
+    - Noto Sans CJK JP Bold
   text-size:
     - interpolate
     - - linear
